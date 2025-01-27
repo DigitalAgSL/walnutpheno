@@ -1,6 +1,6 @@
 # Publication Resources
 
-This repository contains supplementary materials for the publication titled "Comparison of machine learning and thresholding-based image analysis pipelines for high-throughput phenotyping of walnut kernels from staged images" It includes scripts and data used for the analysis presented in the article.
+This repository contains supplementary materials for the publication titled "Comparison of machine learning and thresholding-based image analysis pipelines for high-throughput phenotyping of walnut kernels from staged images" It includes the scripts used for the analysis presented in the article.
 
 ## Citation
 If you use this repository, please cite the publication:
